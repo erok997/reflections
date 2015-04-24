@@ -7,3 +7,9 @@ stay up-to-date with your remote repository?
 
 - Manually pulling the changes allows the user to not get "surprised" by whatever changes
 were made upstream
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- Clones are copies of repositories, including all the merges & branches.
+- Forks are specific to GitHub and fundamentally the same as a clone.
+- Branches are code paths within a repository.
