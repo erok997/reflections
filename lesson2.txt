@@ -25,3 +25,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 - The result is a unified branch, it's represented on the diagram (as a new commit) since it literally is
 the unified versions of the code.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- Automatic makes the mindless, typically non-invasive changes between two branches, painless.
+Manually, means you always have to complete a merge/commit to resolve a changeset, which might
+include several files, etc...
