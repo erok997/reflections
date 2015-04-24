@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- Git initally creates the directory to house the meta-data and it's required so that Git
+can start tracking verions.
+
+
